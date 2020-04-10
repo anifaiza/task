@@ -72,7 +72,7 @@ Single data
 
     [
         {
-            "id" : "1",
+            "id" : 1,
             "name" : "book1",
             "author" : "author_1",
             "publisher" : "publisher_1",
@@ -84,14 +84,14 @@ Multiple data
 
     [
         {
-            "id" : "1",
+            "id" : 1,
             "name" : "book1",
             "author" : "author_1",
             "publisher" : "publisher_1",
             "publish_date" : "Jan 2000"
         },
         {
-            "id" : "2",
+            "id" : 2,
             "name" : "book2",
             "author" : "author_2",
             "publisher" : "publisher_2",
