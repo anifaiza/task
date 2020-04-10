@@ -24,11 +24,11 @@ This is the design of the backend of a 'Library Website'. The design pattern goe
 
 >http://localhost/book Method: GET
 
->http://localhost/book/\<id> Method: GET
+>http://localhost/book/id Method: GET
 
->http://localhost/book/\<id> Method: PUT
+>http://localhost/book/id Method: PUT
 
->http://localhost/book/\<id> Method: DELETE
+>http://localhost/book/id Method: DELETE
 
 ## Data representation
 ### Single data representation
